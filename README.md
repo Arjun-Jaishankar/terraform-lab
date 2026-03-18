@@ -9,9 +9,9 @@ terraform-lab/
 ├── day1/ Local provider (hello.txt)
 ├── day2/ Variables + dev/prod.tfvars
 ├── day3/ Docker nginx (port 8080)
-├── day4/ ✅ Modules: nginx-8081, nginx-8082
-├── day5/ ✅ Dynamic: web1(8081), web2(8082), web3(8083)
-├── .github/workflows/terraform-check.yml ✅ Task 5 CI
+├── day4/ Modules: nginx-8081, nginx-8082
+├── day5/ Dynamic: web1(8081), web2(8082), web3(8083)
+├── .github/workflows/terraform-check.yml Task 5 CI
 ├── .gitignore
 └── README.md
 
